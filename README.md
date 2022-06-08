@@ -127,7 +127,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Payments
 
 - [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
-- [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
+- [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://docs.taler.net/global-licensing.html))
 
 ### Scientific Work
 
